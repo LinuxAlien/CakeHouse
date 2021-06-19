@@ -1,0 +1,104 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.headerbg{
+	width: 100%;
+/*	height: 1600px;*/
+	background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    font-family: "Lora", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.header h1 {
+	color: #e6a756 !important;
+	margin-left: 26%;
+	margin-top: 40px;
+	float: left;
+	font-size: 35px;
+}
+.header p {
+	color: white;
+	font-size: 100px;
+	font-weight: 100;
+}
+.menu{
+	color: white;
+	text-decoration: none;
+	width: 100%;
+	height: 100px;
+	margin-top: 80px;
+	background-color: rgba(47, 23, 15, 0.9);
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.menu ul{
+	line-height: 90px;
+	margin-right: 90px;
+}
+.menu li {
+	display: inline-block;
+	margin-left: 55px;
+
+
+}
+li:hover{
+	opacity: .6;
+	transition: 0s;
+}
+li a {
+  text-decoration: none;
+   color: white !important;
+}
+.center {
+	width: 100%;
+	/*margin: 0 10%;*/
+	height: 700px;
+	margin-top: 100px;
+	text-align: center;
+	font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+.up img {
+	width: 80%;
+	height: 450px;
+	background-position: cover;
+/*	position: absolute;*/
+}
+.down {
+	width: 60%;
+	height: 350px;
+	background-color: #f6e1c5;
+  margin-left:20%;
+	position: relative;
+	margin-top: -200px;
+}
+.down h3 {
+	margin-top: 40px;
+	margin-left: 40px;
+	float: left;
+}
+.down span{
+	font-size: 45px;
+	font-weight: 100;
+	display: inline-block;
+	margin-right: 45%;
+}
+.down	p{
+	text-align: left;
+	padding: 30px 30px;
+	line-height: 1.75;
+}
+.footer{
+	margin-top: 180px;
+	width: 100%;
+	height: 120px;
+	text-align: center;
+	background-color: rgba(47, 23, 15, 0.9);
+	color: #f6e1c5;
+}
+.footer h1{
+float: left;
+margin-top: 40px;
+margin-left: 40%;
+font-size: 20px;
+}
