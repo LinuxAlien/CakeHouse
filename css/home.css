@@ -1,0 +1,126 @@
+.background{
+	background-color: blue;
+	background-attachment: fixed;
+	width: 100%;
+	height: 650px;
+	font-family: 'Padauk', sans-serif;
+}
+.first{
+	width: 80%;
+	height: 100px;
+	margin: 0px 10%;
+	color:white;
+	text-align: center;
+	height: 200px;
+
+}
+.infirst{
+	margin:20px 50px 0px 0px;
+	float:left;
+	width: 20%; 
+	color:white;
+	text-decoration: none;
+	font-size: 22px;
+
+}
+.first li{
+	display:inline-block;
+	float: left;
+	margin: 30px 30px;
+	font-size: 20px;
+}
+.first .buynow{
+	padding: 10px;
+	width: 8%;
+	color: #fff;
+    background-color: #00ba94;
+    border-color: #00ba94;
+    float: right;
+    border-radius: 8px;
+	margin: 20px 30px;
+	font-size: 20px;
+	text-decoration: none;
+	font-family: 'Padauk', sans-serif;
+}
+.mainbg{
+	width: 100%;
+	height: 400px;
+	text-align: center;
+	font-family: 'Padauk', sans-serif;
+
+}
+.main{
+float: left;
+width: 35%;
+margin: 40px 0 0px 80px;
+color:#fff;
+}
+.main h1{
+	font-size: 40px;
+	line-height: 40px;
+	text-align: left;
+}
+.main p{
+	font-size: 20px;
+	text-align: left !	important;
+
+}
+.buynow2{
+	padding: 10px;
+	width: 8%;
+	color: #fff;
+    background-color: #00ba94;
+    border-color: #00ba94;
+    float: left;
+    border-radius: 8px;
+	margin: 30px 0px 0px 80px;
+	font-size: 20px;
+	text-decoration: none;
+	font-family: 'Padauk', sans-serif;
+
+}
+.buynow3{
+	padding: 10px;
+	width: 9%;
+	color: #fff;
+    float: right;
+	margin: 30px 340px 0px 0px;
+	font-size: 19px;
+	text-decoration: none;
+	font-family: 'Padauk', sans-serif;
+
+}
+.icons{
+/*	width: 100%;
+	height: 300px;
+	background-color: red;
+	font-size: 90px;
+}*/
+    width: 100%;
+	height: 300px;
+	margin: 0px;
+	color:blue;
+	font-size: 70px;	
+	text-align: center;
+}
+.ilk{
+	margin: 40px 0 0 0px ;
+	width: 30%;
+	float: left;	
+	font-family: 'Padauk', sans-serif;
+}
+.ikinci{
+	margin-top: 40px;
+	margin-left: 60px;	
+	width: 30%;
+	float: left;
+	font-family: 'Padauk', sans-serif;
+
+}
+.ucuncu{
+	margin: 40px 0 0 0px ;
+	width: 30%;
+	float: right;
+	font-family: 'Padauk', sans-serif;
+
+}
