@@ -1,6 +1,8 @@
 # Azza: CakeHouse
-
-  <img src="https://azza.az/wp-content/uploads/2020/06/g-image-min.png" margin="auto" width="350" title="Azza">
+<p align="left">
+<img src="https://azza.az/wp-content/uploads/2020/06/g-image-min.png" width="350" title="Azza"/>
+<img src="http://www.jobsearch.az/uploads/image/AZZA_1426494434.jpg" width="350" title="Azza"/>
+<p>
 <p>
 Founded in 1987 by the Hernandez brothers, our establishment has been serving up rich coffee sourced from artisan farmers in various regions of South and Central America. We are dedicated to travelling the world, finding the best coffee, and bringing back to you here in our cafe.<br>
 
