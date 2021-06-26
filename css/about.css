@@ -102,3 +102,56 @@ margin-top: 40px;
 margin-left: 40%;
 font-size: 20px;
 }
+
+
+
+@media(max-width:768px) {
+.header h1 {
+ margin-left: 0px;
+ font-size: 35px;
+}
+.header p {
+	margin-top: 50px;
+	font-size: 40px;
+}
+.menu {
+	margin-top: 50px;
+	width: 100%;
+}
+.menu ul {
+	font-size: 12px;
+margin-left: 50px;
+}
+.menu li {
+margin-left: 10px;
+}
+.up img {
+	width: 90%;
+	height: 350px;
+}
+.down {
+	width: 80%;
+	margin-left: 40px;
+	height: 200px;
+}
+
+.down h3 {
+	margin-left: 10px;
+	font-size: 15px;
+}
+.down span{
+	width: 100%;
+margin-left: 0px;
+font-size: 20px;
+
+}
+.down p {
+	margin-top: 0px;
+	font-size: 10px;
+	width: 90%;
+}
+
+
+
+
+}
